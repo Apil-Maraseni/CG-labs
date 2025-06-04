@@ -1,0 +1,1 @@
+# python-codes of computer graphics lab from ioe, tu
