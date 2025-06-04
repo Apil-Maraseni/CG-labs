@@ -7,7 +7,6 @@ screen=pygame.display.set_mode((WIDTH,HEIGHT))
 pygame.display.set_caption("Bresenham's Line Algorithm - Apil Maraseni 012")
 WHITE=(255,255,255)
 BLACK=(0,0,0)
- 
 def draw_line(x1, y1, x2, y2):
     #x1= int(input("Enter x1: "))
     # y1= int(input("Enter y1: "))
