@@ -83,6 +83,15 @@ def main():
        draw_line(700, 200, 600, 200)
        draw_line(700, 400, 600, 400)
        draw_line(600, 200, 600, 400)
+       #draw a player
+       draw_line(350, 300, 370, 300)    
+       draw_line(360, 290, 360, 310)
+       draw_line(350, 300, 360, 290)
+
+       draw_line(350, 300, 360, 310)
+       draw_line(370, 300, 360, 290)
+       draw_line(370, 300, 360, 310)
+
        
        pygame.display.flip()
 
