@@ -4,6 +4,8 @@ import pygame
 import sys      
 import math
 from pygame.locals import QUIT
+from solarsystemrevised import midpoint_circle
+
 # Constants
 WIDTH = 800
 HEIGHT = 600
@@ -57,5 +59,6 @@ def main():
         draw_solar_system()
         pygame.display.flip()
         pygame.time.delay(100)
+        
 if __name__ == "__main__":
     main()
