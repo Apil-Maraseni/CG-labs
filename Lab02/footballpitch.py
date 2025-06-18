@@ -92,6 +92,10 @@ def main():
        draw_line(370, 300, 360, 290)
        draw_line(370, 300, 360, 310)
 
+
+
+       
+
        
        pygame.display.flip()
 
