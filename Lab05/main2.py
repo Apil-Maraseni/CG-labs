@@ -19,7 +19,7 @@ pygame.init()
 WIDTH = 1000
 HEIGHT = 1000
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("2D Transformations: Translation, Rotation, Scaling")
+pygame.display.set_caption("2D Transformations: Translation, Rotation, Scaling Apil Maraseni 012")
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 
