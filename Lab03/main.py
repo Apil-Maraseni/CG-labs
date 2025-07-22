@@ -40,7 +40,7 @@ def main():
                 pygame.quit()
                 sys.exit()
         screen.fill(BLACK)
-        midpointcircle(400, 300, 0, 0, 100, 0)
+        midpointcircle(400, 300, 600, 700, 100, 50)
         pygame.display.flip()
         pygame.time.delay(100)
 
